@@ -1,15 +1,21 @@
 1. Description
+
 In this project, I scraped real propety information from immoweb, a leading property website in Belgium.
 My goal is to get minimal 10 000 inputs for all of Belgium.
 
 
 2.Installation
+
 -beautifulsoup4
+
 -requests
+
 -selenium
+
 -ChromeDriverManager
 
 3.Files in this repo
+
 test.py - for testing scraping for one property link
 
 link.py - get all the 10000+ links
@@ -33,13 +39,10 @@ Day 1. Parse on first test page
 
 Day 2. Get all the link of 10000+
 
-Day 3. Scarping test for first 10 pages
+Day 3. Scarping test for first 10 pages;Get data for 10000+ pages(not finished, process slow);Clean all the codes and write README file
 
-       Get data for 10000+ pages(not finished, process slow)
-       
-       Clean all the codes and write README file
+5. Personal situation
 
-5. Strategy
 #Firstly, before I began to work on this project, I review what I have learned in previous material about web scraping and I have read more tutorials around this topic, which has prepared me for the projects. 
 
 #Second, I think about the step I should do for this projects.
