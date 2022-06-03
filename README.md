@@ -28,14 +28,18 @@ cleaned_data.py - clean data for 100 properties
 
 4.Timeline
 This is a three-day project. So I split my work into small pieces and do it each day.
+
 Day 1. Parse on first test page
+
 Day 2. Get all the link of 10000+
+
 Day 3. Scarping test for first 10 pages
-       Get data for 10000+ pages
+
+       Get data for 10000+ pages(not finished, process slow)
+       
        Clean all the codes and write README file
 
-5. Personal situation
--Strategy
+5. Strategy
 #Firstly, before I began to work on this project, I review what I have learned in previous material about web scraping and I have read more tutorials around this topic, which has prepared me for the projects. 
 
 #Second, I think about the step I should do for this projects.
