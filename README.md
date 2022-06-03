@@ -11,12 +11,19 @@ My goal is to get minimal 10 000 inputs for all of Belgium.
 
 3.Files in this repo
 test.py - for testing scraping for one property link
+
 link.py - get all the 10000+ links
+
 immo_urls.txt - all the links
+
 data100.py - code for scraping 100 links
+
 property_100.csv - data for the first 100 properties
+
 data10000.py - code for scraping on 10000+ links
+
 final_data.csv - data for all the 10000+ properties
+
 cleaned_data.py - clean data for 100 properties
 
 4.Timeline
