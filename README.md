@@ -33,6 +33,7 @@ final_data.csv - data for all the 10000+ properties
 cleaned_data.py - clean data for 100 properties
 
 4.Timeline
+
 This is a three-day project. So I split my work into small pieces and do it each day.
 
 Day 1. Parse on first test page
